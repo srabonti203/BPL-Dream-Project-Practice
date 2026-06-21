@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Virat Kohli",
+    "country": "India",
+    "playerType": "Batsman",
+    "rating": 9.8,
+    "bowlingType": "Right-arm Medium",
+    "price": 12.5,
+    "image": "https://i.ibb.co.com/n8PPFkP0/virat.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Babar Azam",
+    "country": "Pakistan",
+    "playerType": "Batsman",
+    "rating": 9.6,
+    "bowlingType": "Right-arm Off Break",
+    "price": 11.8,
+    "image": "https://i.ibb.co.com/vvYFmdvW/babar-azam.webp"
+  },
+  {
+    "id": 3,
+    "name": "Jos Buttler",
+    "country": "England",
+    "playerType": "Wicket Keeper",
+    "rating": 9.4,
+    "bowlingType": "None",
+    "price": 11.2,
+    "image": "https://i.ibb.co.com/FqkBpv8Y/Jos-Buttler.webp"
+  },
+  {
+    "id": 4,
+    "name": "Rashid Khan",
+    "country": "Afghanistan",
+    "playerType": "Bowler",
+    "rating": 9.7,
+    "bowlingType": "Right-arm Leg Break",
+    "price": 12.0,
+    "image": "https://i.ibb.co.com/4Rvxh2kH/Rashid-Khan.webp"
+  },
+  {
+    "id": 5,
+    "name": "Jasprit Bumrah",
+    "country": "India",
+    "playerType": "Bowler",
+    "rating": 9.9,
+    "bowlingType": "Right-arm Fast",
+    "price": 12.8,
+    "image": "https://i.ibb.co.com/JWFCmcmq/Jasprit-Bumrah.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Ben Stokes",
+    "country": "England",
+    "playerType": "All-Rounder",
+    "rating": 9.5,
+    "bowlingType": "Left-arm Fast Medium",
+    "price": 11.9,
+    "image": "https://i.ibb.co.com/TxxycSsF/Ben-Stokes.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Shakib Al Hasan",
+    "country": "Bangladesh",
+    "playerType": "All-Rounder",
+    "rating": 9.3,
+    "bowlingType": "Left-arm Orthodox",
+    "price": 10.7,
+    "image": "https://i.ibb.co.com/chWCPHZy/Shakib-Al-Hasan.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Trent Boult",
+    "country": "New Zealand",
+    "playerType": "Bowler",
+    "rating": 9.2,
+    "bowlingType": "Left-arm Fast",
+    "price": 10.5,
+    "image": "https://i.ibb.co.com/KcCsVYx1/Kane-Williamson.avif"
+  }
+]
