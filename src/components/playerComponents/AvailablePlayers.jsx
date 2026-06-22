@@ -1,16 +1,33 @@
-import { use } from "react";
+import { use, useState } from "react";
 import Players from "./Players";
 
 const AvailablePlayers = ({ playerPromise }) => {
   const players = use(playerPromise);
-  console.log(players);
+  // console.log(players);
+  const [btnType, setBtnType] = useState("available");
   return (
     <div>
       <div className="flex items-center justify-between">
-        <div className="font-bold">Available Players : {players.length}</div>
+        <div className="font-bold">
+          {btnType === "available" ? (
+            <div>Available Players : {players.length}</div>
+          ) : (
+            <div>Selected Players  (2/{players.length})</div>
+          )}
+        </div>
         <div className="flex">
-          <div className="btn border-r-0 rounded-l-full">Available</div>
-          <div className="btn border-r-0 rounded-r-full">Selected</div>
+          <div
+            onClick={() => setBtnType("available")}
+            className={`btn border-r-0 rounded-l-full ${btnType === "available" ? "bg-[#E7FE29]" : ""}`}
+          >
+            Available
+          </div>
+          <div
+            onClick={() => setBtnType("selected")}
+            className={`btn border-r-0 rounded-r-full ${btnType === "selected" ? "bg-[#E7FE29]" : ""}`}
+          >
+            Selected
+          </div>
         </div>
       </div>
       <div className="flex items-center justify-center mt-4">

@@ -18,7 +18,7 @@ const Banner = () => {
         </p>
 
         <button
-          className="mt-6 md:mt-10 px-5 py-2.5 md:px-8 md:py-4 rounded-xl
+          className="btn mt-6 rounded-xl
     bg-lime-300 text-black font-semibold text-sm md:text-base"
         >
           Claim Free Credit
