@@ -1,6 +1,6 @@
 import dollerImage from "../../assets/dollar 1 (1).png";
 import logo from "../../assets/logo.png";
-const Navbar = () => {
+const Navbar = ({ coins }) => {
   return (
     <div>
       <div className="navbar bg-base-100 shadow-sm">
@@ -61,7 +61,7 @@ const Navbar = () => {
         </div>
         <div className="navbar-end">
           <div className="flex gap-2">
-            <div className="font-bold">0 Coins </div>
+            <div className="font-bold">{coins}</div>
             <img
               className="object-center object-contain"
               src={dollerImage}

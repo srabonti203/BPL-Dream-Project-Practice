@@ -6,7 +6,7 @@
     "playerType": "Batsman",
     "rating": 9.8,
     "bowlingType": "Right-arm Medium",
-    "price": 12.5,
+    "price": 100,
     "image": "https://i.ibb.co.com/n8PPFkP0/virat.jpg"
   },
   {
@@ -16,7 +16,7 @@
     "playerType": "Batsman",
     "rating": 9.6,
     "bowlingType": "Right-arm Off Break",
-    "price": 11.8,
+    "price": 2000,
     "image": "https://i.ibb.co.com/vvYFmdvW/babar-azam.webp"
   },
   {
@@ -26,7 +26,7 @@
     "playerType": "Wicket Keeper",
     "rating": 9.4,
     "bowlingType": "None",
-    "price": 11.2,
+    "price": 500,
     "image": "https://i.ibb.co.com/FqkBpv8Y/Jos-Buttler.webp"
   },
   {
@@ -36,7 +36,7 @@
     "playerType": "Bowler",
     "rating": 9.7,
     "bowlingType": "Right-arm Leg Break",
-    "price": 12.0,
+    "price": 300,
     "image": "https://i.ibb.co.com/4Rvxh2kH/Rashid-Khan.webp"
   },
   {
@@ -46,7 +46,7 @@
     "playerType": "Bowler",
     "rating": 9.9,
     "bowlingType": "Right-arm Fast",
-    "price": 12.8,
+    "price": 400,
     "image": "https://i.ibb.co.com/JWFCmcmq/Jasprit-Bumrah.jpg"
   },
   {
@@ -56,7 +56,7 @@
     "playerType": "All-Rounder",
     "rating": 9.5,
     "bowlingType": "Left-arm Fast Medium",
-    "price": 11.9,
+    "price": 600,
     "image": "https://i.ibb.co.com/TxxycSsF/Ben-Stokes.jpg"
   },
   {
@@ -66,7 +66,7 @@
     "playerType": "All-Rounder",
     "rating": 9.3,
     "bowlingType": "Left-arm Orthodox",
-    "price": 10.7,
+    "price": 3000,
     "image": "https://i.ibb.co.com/chWCPHZy/Shakib-Al-Hasan.jpg"
   },
   {
@@ -76,7 +76,7 @@
     "playerType": "Bowler",
     "rating": 9.2,
     "bowlingType": "Left-arm Fast",
-    "price": 10.5,
+    "price": 1000,
     "image": "https://i.ibb.co.com/KcCsVYx1/Kane-Williamson.avif"
   }
 ]
